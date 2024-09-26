@@ -1,4 +1,4 @@
-# Gym Website Project
+# The Notorious
 
 ## Overview
 This project is a responsive gym website designed to provide users with information about gym services, schedules, and membership plans. The website aims to create an engaging user experience with smooth navigation and visually appealing design.
